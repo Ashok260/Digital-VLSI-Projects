@@ -1,4 +1,5 @@
-# Architectural-design-of-integrated-circuits-
+# Digital VLSI Projects
+#ADIC
 This folder includes Verilog HDL codes of:
 1.Adders (Fulladder, Half adder , Ripple carry adder , Carry look ahead adder in different verilog discription styles)
 2.Behavioural Discription codes 
@@ -10,4 +11,9 @@ This folder includes Verilog HDL codes of:
 8)Decoders (2to4 and 3to8 decoders)
 9)encoders (4to2 and 8to3 encoders)
 9)Multiplexers (2to1 , 4to1 and 8to1 MUX)
-
+#NB-IOT Uplink Transmitter Chain
+This folder contains verilog codes of implemented sub-systems of NB-IOT Uplink transmitter chain 
+1)Turbo encoder
+2)Channel Interleaver
+3)DMRS
+4)Report
